@@ -1,2 +1,0 @@
-# huchi
-personal and public
